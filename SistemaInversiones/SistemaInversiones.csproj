@@ -60,7 +60,7 @@
     <Compile Include="clasesSinEmpaquetar\FabricaSistemasTradicionales.cs" />
     <Compile Include="clasesSinEmpaquetar\ITipoAhorroInversion.cs" />
     <Compile Include="clasesSinEmpaquetar\Persona.cs" />
-    <Compile Include="clasesSinEmpaquetar\RegistroHistórico.cs" />
+    <Compile Include="clasesSinEmpaquetar\Registro.cs" />
     <Compile Include="clasesSinEmpaquetar\TasaPactada.cs" />
     <Compile Include="VistaGUI.cs">
       <SubType>Form</SubType>

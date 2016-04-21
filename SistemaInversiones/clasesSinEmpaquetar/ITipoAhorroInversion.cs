@@ -9,6 +9,6 @@ namespace SistemaInversiones.clasesSinEmpaquetar
     interface ITipoAhorroInversion
     {
         bool verificarDatos(Datos datosp);
-        Datos obtenerIntereses(Datos datosp);
+        void obtenerIntereses(Datos datosp);
     }
 }

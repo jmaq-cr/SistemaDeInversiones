@@ -8,14 +8,42 @@ namespace SistemaInversiones.clasesSinEmpaquetar
 {
     class DepositoPlazo : ITipoAhorroInversion
     {
-        public Datos obtenerIntereses(Datos datosp)
+        public void obtenerIntereses(Datos datosp)
         {
-            return datosp;
+            DatosPredefinidos.asignarIntereses(datosp);
         }
 
         public bool verificarDatos(Datos datosp)
         {
-            return true;
+            if (datosp.Moneda.Equals("colones") && datosp.Plazo >= 30)
+            {
+                if(datosp.Plazo>=30 && datosp.Plazo <= 89)
+                {
+                    if(datosp.Monto >= 100000)
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+                else
+                {
+                    if (datosp.Monto >= 50000)
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }

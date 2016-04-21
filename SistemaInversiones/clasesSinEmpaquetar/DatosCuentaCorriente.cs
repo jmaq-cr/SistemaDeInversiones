@@ -8,8 +8,9 @@ namespace SistemaInversiones.clasesSinEmpaquetar
 {
     class DatosCuentaCorriente
     {
-        double montoMin;
-        double montoMax;
-        double intereses;
+        private double montoMin;
+        private double montoMax;
+        private double intereses;
+
     }
 }

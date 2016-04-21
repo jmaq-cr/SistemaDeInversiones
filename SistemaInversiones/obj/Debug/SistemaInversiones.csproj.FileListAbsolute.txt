@@ -10,3 +10,11 @@ c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInver
 c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversiones\SistemaInversiones\obj\Debug\es\SistemaInversiones.resources.dll
 c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.exe
 c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.pdb
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\bin\Debug\SistemaInversiones.exe.config
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.exe
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.pdb
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.csprojResolveAssemblyReference.cache
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.VistaGUI.resources
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.Properties.Resources.resources
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.VistaGUI.es.resources
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.csproj.GenerateResource.Cache

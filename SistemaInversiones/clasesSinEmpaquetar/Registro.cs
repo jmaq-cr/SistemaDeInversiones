@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SistemaInversiones.clasesSinEmpaquetar
 {
-    abstract class RegistroHistórico
+    abstract class Registro
     {
         public static void crearArchivo()
         {

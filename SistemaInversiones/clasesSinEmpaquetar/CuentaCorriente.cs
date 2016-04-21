@@ -8,14 +8,21 @@ namespace SistemaInversiones.clasesSinEmpaquetar
 {
     class CuentaCorriente : ITipoAhorroInversion
     {
-        public Datos obtenerIntereses(Datos datosp)
+        public void obtenerIntereses(Datos datosp)
         {
-            return datosp;
+            DatosPredefinidos.asignarIntereses(datosp);
         }
 
         public bool verificarDatos(Datos datosp)
         {
-            return true;
+            if(datosp.Monto >= 25000 && datosp.Moneda.Equals("colones"))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }

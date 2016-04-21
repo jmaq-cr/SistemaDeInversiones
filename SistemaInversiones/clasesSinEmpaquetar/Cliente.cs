@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace SistemaInversiones.clasesSinEmpaquetar
 {
-    class Cliente : Persona
+    public class Cliente : Persona
     {
         private string nombre;
+
+        public Cliente(string nombrep)
+        {
+            nombre = nombrep;
+        }
     }
 }

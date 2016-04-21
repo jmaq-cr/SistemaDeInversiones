@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SistemaInversiones.clasesSinEmpaquetar
 {
-    abstract class Persona
+    public abstract class Persona
     {
         private string nombre;
     }

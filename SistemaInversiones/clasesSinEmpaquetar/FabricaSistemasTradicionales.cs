@@ -8,9 +8,28 @@ namespace SistemaInversiones.clasesSinEmpaquetar
 {
     class FabricaSistemasTradicionales : IFabricaSistemas
     {
+        public FabricaSistemasTradicionales()
+        {
+
+        }
+
         public ITipoAhorroInversion fabricaAhorroInversion(string tipoInversion)
         {
-            throw new NotImplementedException();
+            if (tipoInversion.Equals("DepositoPlazo"))
+            {
+                ITipoAhorroInversion temp = new DepositoPlazo();
+                return temp;
+            }
+            else if (tipoInversion.Equals("TasaPactada"))
+            {
+                ITipoAhorroInversion temp = new TasaPactada();
+                return temp;
+            }
+            else
+            {
+                ITipoAhorroInversion temp = new CuentaCorriente();
+                return temp;
+            }
         }
     }
 }

@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace SistemaInversiones.clasesSinEmpaquetar
 {
-    abstract class DatosPredefinidos
+    public static class DatosPredefinidos
     {
-        static Datos asignarIntereses(Datos datosp)
+        public static void asignarIntereses(Datos datosp)
         {
+
         }
-        static void cargarDatos()
+        public static void cargarDatos()
         {
 
         }
