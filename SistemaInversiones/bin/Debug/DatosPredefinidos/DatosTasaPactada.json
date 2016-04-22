@@ -1,0 +1,56 @@
+[{
+  "plazoMin": 15,
+  "plazoMax": 29,
+  "interesColones": 4.85,
+  "interesDolares": 0.80
+}, {
+  "plazoMin": 30,
+  "plazoMax": 59,
+  "interesColones": 4.94,
+  "interesDolares": 0.91
+}, {
+  "plazoMin": 60,
+  "plazoMax": 89,
+  "interesColones": 5.23,
+  "interesDolares": 1.06
+}, {
+  "plazoMin": 90,
+  "plazoMax": 179,
+  "interesColones": 5.81,
+  "interesDolares": 1.44
+}, {
+  "plazoMin": 180,
+  "plazoMax": 269,
+  "interesColones": 8.83,
+  "interesDolares": 2.21
+}, {
+  "plazoMin": 270,
+  "plazoMax": 359,
+  "interesColones": 8.69,
+  "interesDolares": 2.26
+}, {
+  "plazoMin": 360,
+  "plazoMax": 719,
+  "interesColones": 8.69,
+  "interesDolares": 2.40
+}, {
+  "plazoMin": 720,
+  "plazoMax": 1079,
+  "interesColones": 8.69,
+  "interesDolares": 2.40
+}, {
+  "plazoMin": 1080,
+  "plazoMax": 1439,
+  "interesColones": 8.69,
+  "interesDolares": 2.40
+}, {
+  "plazoMin": 1440,
+  "plazoMax": 1799,
+  "interesColones": 8.69,
+  "interesDolares": 2.40
+}, {
+  "plazoMin": 1800,
+  "plazoMax": true,
+  "interesColones": 8.69,
+  "interesDolares": 2.40
+}]

@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace SistemaInversiones.clasesSinEmpaquetar
 {
-    class DatosDepositoPlazo
+    class DatosTasaPactada
     {
         int plazoMin;
         int plazoMax;
-        double intereses;
+        double interesesColones;
+        double interesesDolares;
 
         public int PlazoMin
         {
@@ -38,24 +39,38 @@ namespace SistemaInversiones.clasesSinEmpaquetar
             }
         }
 
-        public double Intereses
+        public double InteresesColones
         {
             get
             {
-                return intereses;
+                return interesesColones;
             }
 
             set
             {
-                intereses = value;
+                interesesColones = value;
             }
         }
 
-        public DatosDepositoPlazo(int plazoMinp, int plazoMaxp, double interesesp)
+        public double InteresesDolares
+        {
+            get
+            {
+                return interesesDolares;
+            }
+
+            set
+            {
+                interesesDolares = value;
+            }
+        }
+
+        public DatosTasaPactada(int plazoMinp, int plazoMaxp, double interesesColonesp, double interesesDolaresp)
         {
             PlazoMin = plazoMinp;
             PlazoMax = plazoMaxp;
-            Intereses = interesesp;
+            InteresesColones = interesesColonesp;
+            InteresesDolares = interesesDolaresp;
         }
     }
 }

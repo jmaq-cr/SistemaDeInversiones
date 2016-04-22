@@ -12,6 +12,21 @@ namespace SistemaInversiones.clasesSinEmpaquetar
         private double monto;
         private int plazo;
         private string moneda;
+        private double interesAnual;
+
+        
+        public double InteresAnual
+        {
+            get
+            {
+                return InteresAnual;
+            }
+
+            set
+            {
+                InteresAnual = value;
+            }
+        }
 
         public string Moneda
         {
@@ -63,6 +78,13 @@ namespace SistemaInversiones.clasesSinEmpaquetar
             {
                 tipo = value;
             }
+        }
+        public Datos(string tipop, double montop, int plazop, string monedap)
+        {
+            Tipo = tipop;
+            Monto = montop;
+            Plazo = plazop;
+            Moneda = monedap;
         }
     }
 }

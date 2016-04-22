@@ -20,6 +20,7 @@ namespace SistemaInversiones.clasesSinEmpaquetar
         }
         public Datos calcularInversion(string nombre,string tipo,double monto,int plazo,string moneda)
         {
+            DatosPredefinidos.cargarDatos();
             Datos datosActuales = new DatosInversion(tipo, monto, plazo, moneda);
             datos.Add(datosActuales);
             Persona clienteActual = new Cliente(nombre);

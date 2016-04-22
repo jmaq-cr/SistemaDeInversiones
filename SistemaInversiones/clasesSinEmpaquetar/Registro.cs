@@ -8,7 +8,7 @@ namespace SistemaInversiones.clasesSinEmpaquetar
 {
     abstract class Registro
     {
-        public static void crearArchivo()
+        public static void crearArchivoXML(List<Datos> datosp,List<Persona>clientesp)
         {
 
         } 

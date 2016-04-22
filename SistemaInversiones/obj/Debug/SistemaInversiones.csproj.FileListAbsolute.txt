@@ -18,3 +18,9 @@ C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\
 C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.Properties.Resources.resources
 C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.VistaGUI.es.resources
 C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\SistemaInversiones.csproj.GenerateResource.Cache
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\bin\Debug\SistemaInversiones.exe
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\bin\Debug\SistemaInversiones.pdb
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\bin\Debug\es\SistemaInversiones.resources.dll
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose Aguilar Quesada\Documents\SistemaDeInversiones\SistemaInversiones\obj\Debug\es\SistemaInversiones.resources.dll
