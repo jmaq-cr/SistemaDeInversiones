@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Entrada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-23T18:28:43.7549788-06:00</Fecha>
+  <Nombre>Jose Aguilar Quesada</Nombre>
+  <TipoInversion>Depósito Plazo</TipoInversion>
+  <Monto>26776543</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>345</Plazo>
+  <InteresAnual>9.3</InteresAnual>
+  <InteresGanado>2386459.394875017</InteresGanado>
+  <ImpuestoRenta>190916.75159000137</ImpuestoRenta>
+  <SaldoFinal>28972085.643285014</SaldoFinal>
+</Entrada>

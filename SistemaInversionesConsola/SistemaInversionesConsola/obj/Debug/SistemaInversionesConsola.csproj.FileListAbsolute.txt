@@ -1,0 +1,17 @@
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\SistemaInversionesConsola.exe.config
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\SistemaInversionesConsola.exe
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\SistemaInversionesConsola.pdb
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\Newtonsoft.Json.dll
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\Newtonsoft.Json.xml
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\obj\Debug\SistemaInversionesConsola.csprojResolveAssemblyReference.cache
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\obj\Debug\SistemaInversionesConsola.exe
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\obj\Debug\SistemaInversionesConsola.pdb
+C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\ServiceStack.Client.dll
+C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\ServiceStack.Common.dll
+C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\ServiceStack.dll
+C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\ServiceStack.Text.dll
+C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\ServiceStack.xml
+C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\ServiceStack.Client.xml
+C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\ServiceStack.Common.xml
+C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\SistemaInversionesConsola\SistemaInversionesConsola\bin\Debug\ServiceStack.Text.xml
