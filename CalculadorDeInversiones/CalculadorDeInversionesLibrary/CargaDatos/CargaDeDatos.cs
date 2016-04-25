@@ -14,13 +14,13 @@ namespace CalculadorDeInversionesLibrary
         public static void cargarDatos()
         {
             string json = File.ReadAllText("DatosPredefinidos/DatosCuentaCorriente.json");
-            List<DatosCuentaCorriente>  datosCuentaCorriente = JsonConvert.DeserializeObject<List<DatosCuentaCorriente>>(json);
+            List<DatosCuentaCorrienteDTO>  datosCuentaCorriente = JsonConvert.DeserializeObject<List<DatosCuentaCorrienteDTO>>(json);
             InteresesPredefinidos.DatosCuentaCorriente = datosCuentaCorriente;
             json = File.ReadAllText("DatosPredefinidos/DatosDepositoPlazo.json");
-            List<DatosDepositoPlazo> datosDepositoPlazo = JsonConvert.DeserializeObject<List<DatosDepositoPlazo>>(json);
+            List<DatosDepositoPlazoDTO> datosDepositoPlazo = JsonConvert.DeserializeObject<List<DatosDepositoPlazoDTO>>(json);
             InteresesPredefinidos.DatosDepositoPlazo = datosDepositoPlazo;
             json = File.ReadAllText("DatosPredefinidos/DatosTasaPactada.json");
-            List<DatosTasaPactada> datosTasaPactada = JsonConvert.DeserializeObject<List<DatosTasaPactada>>(json);
+            List<DatosTasaPactadaDTO> datosTasaPactada = JsonConvert.DeserializeObject<List<DatosTasaPactadaDTO>>(json);
             InteresesPredefinidos.DatosTasaPactada = datosTasaPactada;
         }
     }

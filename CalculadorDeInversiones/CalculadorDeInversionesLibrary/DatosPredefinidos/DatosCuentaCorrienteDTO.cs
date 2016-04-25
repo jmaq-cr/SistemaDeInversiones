@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalculadorDeInversionesLibrary
 {
-    class DatosCuentaCorriente
+    class DatosCuentaCorrienteDTO
     {
         private double montoMin;
         private double montoMax;
@@ -51,7 +51,7 @@ namespace CalculadorDeInversionesLibrary
             }
         }
 
-        public DatosCuentaCorriente(double montoMinp,double montoMaxp,double interesesp)
+        public DatosCuentaCorrienteDTO(double montoMinp,double montoMaxp,double interesesp)
         {
             MontoMin = montoMinp;
             MontoMax = montoMaxp;

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -30,30 +30,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="ServiceStack, Version=4.0.56.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ServiceStack.4.0.56\lib\net40\ServiceStack.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="ServiceStack.Client, Version=4.0.56.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ServiceStack.Client.4.0.56\lib\net40\ServiceStack.Client.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="ServiceStack.Common, Version=4.0.56.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ServiceStack.Common.4.0.56\lib\net40\ServiceStack.Common.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="ServiceStack.Interfaces, Version=4.0.0.0, Culture=neutral, PublicKeyToken=e06fbc6124f57c43, processorArchitecture=MSIL">
-      <HintPath>..\packages\ServiceStack.Interfaces.4.0.56\lib\portable-wp80+sl5+net40+win8+wpa81+monotouch+monoandroid+xamarin.ios10\ServiceStack.Interfaces.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="ServiceStack.Text, Version=4.0.56.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ServiceStack.Text.4.0.56\lib\net40\ServiceStack.Text.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -62,29 +38,47 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack, Version=4.0.56.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\ServiceStack.4.0.56\lib\net40\ServiceStack.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Client, Version=4.0.56.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\ServiceStack.Client.4.0.56\lib\net40\ServiceStack.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Common, Version=4.0.56.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\ServiceStack.Common.4.0.56\lib\net40\ServiceStack.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces, Version=4.0.0.0, Culture=neutral, PublicKeyToken=e06fbc6124f57c43">
+      <HintPath>..\packages\ServiceStack.Interfaces.4.0.56\lib\portable-wp80+sl5+net40+win8+wpa81+monotouch+monoandroid+xamarin.ios10\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Text, Version=4.0.56.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\ServiceStack.Text.4.0.56\lib\net40\ServiceStack.Text.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CalculadorDeInversiones.cs" />
-    <Compile Include="CargaDeDatos.cs" />
-    <Compile Include="Cliente.cs" />
-    <Compile Include="Controlador.cs" />
-    <Compile Include="CuentaCorriente.cs" />
-    <Compile Include="Datos.cs" />
-    <Compile Include="DatosCuentaCorriente.cs" />
-    <Compile Include="DatosDepositoPlazo.cs" />
-    <Compile Include="DatosInversion.cs" />
-    <Compile Include="InteresesPredefinidos.cs" />
-    <Compile Include="DatosTasaPactada.cs" />
-    <Compile Include="DepositoPlazo.cs" />
-    <Compile Include="Salida.cs" />
-    <Compile Include="FabricaSistemasTradicionales.cs" />
-    <Compile Include="IFabricaSistemas.cs" />
-    <Compile Include="ITipoAhorroInversion.cs" />
-    <Compile Include="Persona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RegistroHistorico.cs" />
-    <Compile Include="Rendimiento.cs" />
-    <Compile Include="TasaPactada.cs" />
+    <Compile Include="ControladorInversiones\Controlador.cs" />
+    <Compile Include="ControladorInversiones\CalculadorDeInversiones.cs" />
+    <Compile Include="Clientes\ClienteDTO.cs" />
+    <Compile Include="Clientes\Persona.cs" />
+    <Compile Include="ModeloDatosInversiones\Datos.cs" />
+    <Compile Include="ModeloDatosInversiones\DatosInversionDTO.cs" />
+    <Compile Include="Fabricas\FabricaSistemasTradicionales.cs" />
+    <Compile Include="Fabricas\IFabricaSistemas.cs" />
+    <Compile Include="TiposAhorroInversion\ITipoAhorroInversion.cs" />
+    <Compile Include="TiposAhorroInversion\CuentaCorriente.cs" />
+    <Compile Include="TiposAhorroInversion\TasaPactada.cs" />
+    <Compile Include="TiposAhorroInversion\DepositoPlazo.cs" />
+    <Compile Include="CalculoRendimiento\Rendimiento.cs" />
+    <Compile Include="DatosPredefinidos\InteresesPredefinidos.cs" />
+    <Compile Include="DatosPredefinidos\DatosCuentaCorrienteDTO.cs" />
+    <Compile Include="DatosPredefinidos\DatosDepositoPlazoDTO.cs" />
+    <Compile Include="DatosPredefinidos\DatosTasaPactadaDTO.cs" />
+    <Compile Include="CargaDatos\CargaDeDatos.cs" />
+    <Compile Include="SalidaDatos\RegistroHistorico.cs" />
+    <Compile Include="SalidaDatos\SalidaDTO.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -97,4 +91,15 @@
   <Target Name="AfterBuild">
   </Target>
   -->
+  <ItemGroup>
+    <Folder Include="ControladorInversiones\" />
+    <Folder Include="Clientes\" />
+    <Folder Include="ModeloDatosInversiones\" />
+    <Folder Include="Fabricas\" />
+    <Folder Include="TiposAhorroInversion\" />
+    <Folder Include="CalculoRendimiento\" />
+    <Folder Include="DatosPredefinidos\" />
+    <Folder Include="CargaDatos\" />
+    <Folder Include="SalidaDatos\" />
+  </ItemGroup>
 </Project>

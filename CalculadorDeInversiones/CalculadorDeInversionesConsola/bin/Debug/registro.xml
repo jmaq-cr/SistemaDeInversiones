@@ -1,7 +1,98 @@
 <?xml version="1.0" encoding="utf-16"?>
+<Entrada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T14:24:01.7630491-06:00</Fecha>
+  <Nombre>Jose Aguilar</Nombre>
+  <TipoInversion>Cuenta Corriente</TipoInversion>
+  <Monto>1500000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>150</Plazo>
+  <InteresAnual>2.25</InteresAnual>
+  <InteresGanado>14062.5</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>1514062.5</SaldoFinal>
+</Entrada>
+<?xml version="1.0" encoding="utf-16"?>
+<Entrada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T14:24:45.0900063-06:00</Fecha>
+  <Nombre>Eduardo Vargas</Nombre>
+  <TipoInversion>Tasa Pactada</TipoInversion>
+  <Monto>9000</Monto>
+  <Moneda>dólares</Moneda>
+  <Plazo>300</Plazo>
+  <InteresAnual>2.26</InteresAnual>
+  <InteresGanado>169.49999999999949</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>9169.5</SaldoFinal>
+</Entrada>
+<?xml version="1.0" encoding="utf-16"?>
+<Entrada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T14:26:00.054248-06:00</Fecha>
+  <Nombre>Shirley Quesada</Nombre>
+  <TipoInversion>Depósito Plazo</TipoInversion>
+  <Monto>2300000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>200</Plazo>
+  <InteresAnual>9.95</InteresAnual>
+  <InteresGanado>127138.88888888834</InteresGanado>
+  <ImpuestoRenta>10171.111111111068</ImpuestoRenta>
+  <SaldoFinal>2416967.7777777775</SaldoFinal>
+</Entrada>
+<?xml version="1.0" encoding="utf-16"?>
+<Entrada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T14:26:34.4303266-06:00</Fecha>
+  <Nombre>Gladys Sandi</Nombre>
+  <TipoInversion>Cuenta Corriente</TipoInversion>
+  <Monto>9300000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>120</Plazo>
+  <InteresAnual>2.5</InteresAnual>
+  <InteresGanado>77500.000000000015</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>9377500</SaldoFinal>
+</Entrada>
+<?xml version="1.0" encoding="utf-16"?>
+<Entrada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T19:53:13.9626696-06:00</Fecha>
+  <Nombre>Jose</Nombre>
+  <TipoInversion>Tasa Pactada</TipoInversion>
+  <Monto>250000</Monto>
+  <Moneda>dólares</Moneda>
+  <Plazo>90</Plazo>
+  <InteresAnual>1.44</InteresAnual>
+  <InteresGanado>900</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>250900</SaldoFinal>
+</Entrada>
+<?xml version="1.0" encoding="utf-16"?>
+<Entrada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T20:26:47.1238133-06:00</Fecha>
+  <Nombre>Roberto</Nombre>
+  <TipoInversion>Depósito Plazo</TipoInversion>
+  <Monto>1250000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>90</Plazo>
+  <InteresAnual>6.3</InteresAnual>
+  <InteresGanado>19687.5</InteresGanado>
+  <ImpuestoRenta>1575</ImpuestoRenta>
+  <SaldoFinal>1268112.5</SaldoFinal>
+</Entrada>
+<?xml version="1.0" encoding="utf-16"?>
+<Entrada xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T20:27:05.9230808-06:00</Fecha>
+  <Nombre>Ana</Nombre>
+  <TipoInversion>Tasa Pactada</TipoInversion>
+  <Monto>500000</Monto>
+  <Moneda>dólares</Moneda>
+  <Plazo>80</Plazo>
+  <InteresAnual>1.06</InteresAnual>
+  <InteresGanado>1177.7777777777758</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>501177.77777777775</SaldoFinal>
+</Entrada>
+<?xml version="1.0" encoding="utf-16"?>
 <Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Fecha>2016-04-24T23:12:11.7293359-06:00</Fecha>
-  <Nombre>Disney Landia Rodríguez Juárez</Nombre>
+  <Fecha>2016-04-24T21:14:35.0018463-06:00</Fecha>
+  <Nombre>Jose</Nombre>
   <TipoInversion>Cuenta Corriente</TipoInversion>
   <Monto>1000000</Monto>
   <Moneda>colones</Moneda>
@@ -13,53 +104,144 @@
 </Salida>
 <?xml version="1.0" encoding="utf-16"?>
 <Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Fecha>2016-04-24T23:14:04.3624758-06:00</Fecha>
-  <Nombre>Email Suárez Barboza</Nombre>
+  <Fecha>2016-04-24T21:15:04.8849974-06:00</Fecha>
+  <Nombre>Jose</Nombre>
   <TipoInversion>Cuenta Corriente</TipoInversion>
-  <Monto>2650000</Monto>
+  <Monto>1000000</Monto>
   <Moneda>colones</Moneda>
-  <Plazo>21</Plazo>
-  <InteresAnual>2.5</InteresAnual>
-  <InteresGanado>3864.5833333333339</InteresGanado>
+  <Plazo>25</Plazo>
+  <InteresAnual>2</InteresAnual>
+  <InteresGanado>1388.8888888888894</InteresGanado>
   <ImpuestoRenta>0</ImpuestoRenta>
-  <SaldoFinal>2653864.5833333335</SaldoFinal>
+  <SaldoFinal>1001388.8888888889</SaldoFinal>
 </Salida>
 <?xml version="1.0" encoding="utf-16"?>
 <Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Fecha>2016-04-24T23:15:05.5720783-06:00</Fecha>
-  <Nombre>Yam Clock Alejandro Pizarro Rojas</Nombre>
-  <TipoInversion>Tasa Pactada</TipoInversion>
-  <Monto>1200000</Monto>
+  <Fecha>2016-04-24T21:15:23.8827595-06:00</Fecha>
+  <Nombre>1000000</Nombre>
+  <TipoInversion>Cuenta Corriente</TipoInversion>
+  <Monto>1000000</Monto>
   <Moneda>colones</Moneda>
-  <Plazo>56</Plazo>
-  <InteresAnual>4.94</InteresAnual>
-  <InteresGanado>9221.3333333333358</InteresGanado>
+  <Plazo>20</Plazo>
+  <InteresAnual>2</InteresAnual>
+  <InteresGanado>1111.1111111111111</InteresGanado>
   <ImpuestoRenta>0</ImpuestoRenta>
-  <SaldoFinal>1209221.3333333333</SaldoFinal>
+  <SaldoFinal>1001111.1111111111</SaldoFinal>
 </Salida>
 <?xml version="1.0" encoding="utf-16"?>
 <Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Fecha>2016-04-24T23:16:45.294625-06:00</Fecha>
-  <Nombre>Usnavy Marina Pérez González</Nombre>
-  <TipoInversion>Tasa Pactada</TipoInversion>
-  <Monto>8500</Monto>
-  <Moneda>dólares</Moneda>
-  <Plazo>150</Plazo>
-  <InteresAnual>1.44</InteresAnual>
-  <InteresGanado>51.000000000000178</InteresGanado>
+  <Fecha>2016-04-25T12:49:47.0870776-06:00</Fecha>
+  <Nombre>Kevin</Nombre>
+  <TipoInversion>Cuenta Corriente</TipoInversion>
+  <Monto>50000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>20</Plazo>
+  <InteresAnual>1</InteresAnual>
+  <InteresGanado>27.777777777777782</InteresGanado>
   <ImpuestoRenta>0</ImpuestoRenta>
-  <SaldoFinal>8551</SaldoFinal>
+  <SaldoFinal>50027.777777777781</SaldoFinal>
 </Salida>
 <?xml version="1.0" encoding="utf-16"?>
-<Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Fecha>2016-04-24T23:17:57.7988969-06:00</Fecha>
-  <Nombre>Rocky Rambo Quispe Mamani</Nombre>
+<SalidaDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-25T13:20:55.4508099-06:00</Fecha>
+  <Nombre>Jota Eme</Nombre>
+  <TipoInversion>Cuenta Corriente</TipoInversion>
+  <Monto>1750000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>200</Plazo>
+  <InteresAnual>2.25</InteresAnual>
+  <InteresGanado>21875</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>1771875</SaldoFinal>
+</SalidaDTO>
+<?xml version="1.0" encoding="utf-16"?>
+<SalidaDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-25T13:21:37.2122157-06:00</Fecha>
+  <Nombre>Juan</Nombre>
   <TipoInversion>Depósito Plazo</TipoInversion>
-  <Monto>2500000</Monto>
+  <Monto>65044444</Monto>
   <Moneda>colones</Moneda>
-  <Plazo>48</Plazo>
-  <InteresAnual>5.4</InteresAnual>
-  <InteresGanado>18000.000000000004</InteresGanado>
-  <ImpuestoRenta>1440.0000000000002</ImpuestoRenta>
-  <SaldoFinal>2516560</SaldoFinal>
-</Salida>
+  <Plazo>320</Plazo>
+  <InteresAnual>9.3</InteresAnual>
+  <InteresGanado>5377007.3706666576</InteresGanado>
+  <ImpuestoRenta>430160.5896533326</ImpuestoRenta>
+  <SaldoFinal>69991290.781013325</SaldoFinal>
+</SalidaDTO>
+<?xml version="1.0" encoding="utf-16"?>
+<SalidaDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-25T13:22:06.6392173-06:00</Fecha>
+  <Nombre>Pedro</Nombre>
+  <TipoInversion>Tasa Pactada</TipoInversion>
+  <Monto>8273445</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>75</Plazo>
+  <InteresAnual>5.23</InteresAnual>
+  <InteresGanado>90146.077812500065</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>8363591.0778125</SaldoFinal>
+</SalidaDTO>
+<?xml version="1.0" encoding="utf-16"?>
+<SalidaDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-25T16:37:33.1934335-06:00</Fecha>
+  <Nombre>Jasson Moya Álvarez</Nombre>
+  <TipoInversion>Cuenta Corriente</TipoInversion>
+  <Monto>40000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>15</Plazo>
+  <InteresAnual>1</InteresAnual>
+  <InteresGanado>16.666666666666664</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>40016.666666666664</SaldoFinal>
+</SalidaDTO>
+<?xml version="1.0" encoding="utf-16"?>
+<SalidaDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-25T16:46:24.792344-06:00</Fecha>
+  <Nombre>Jose</Nombre>
+  <TipoInversion>Cuenta Corriente</TipoInversion>
+  <Monto>1500000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>150</Plazo>
+  <InteresAnual>2.25</InteresAnual>
+  <InteresGanado>14062.5</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>1514062.5</SaldoFinal>
+</SalidaDTO>
+<?xml version="1.0" encoding="utf-16"?>
+<SalidaDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-25T16:46:54.5720965-06:00</Fecha>
+  <Nombre>Ana</Nombre>
+  <TipoInversion>Depósito Plazo</TipoInversion>
+  <Monto>6500000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>120</Plazo>
+  <InteresAnual>6.3</InteresAnual>
+  <InteresGanado>136500</InteresGanado>
+  <ImpuestoRenta>10920</ImpuestoRenta>
+  <SaldoFinal>6625580</SaldoFinal>
+</SalidaDTO>
+<?xml version="1.0" encoding="utf-16"?>
+<SalidaDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-25T16:47:21.6558817-06:00</Fecha>
+  <Nombre>Pedro</Nombre>
+  <TipoInversion>Tasa Pactada</TipoInversion>
+  <Monto>975000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>100</Plazo>
+  <InteresAnual>5.81</InteresAnual>
+  <InteresGanado>15735.416666666644</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>990735.41666666663</SaldoFinal>
+</SalidaDTO>
+<?xml version="1.0" encoding="utf-16"?>
+<SalidaDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-25T16:47:53.7826529-06:00</Fecha>
+  <Nombre>Chum Lee</Nombre>
+  <TipoInversion>Tasa Pactada</TipoInversion>
+  <Monto>427525</Monto>
+  <Moneda>dólares</Moneda>
+  <Plazo>80</Plazo>
+  <InteresAnual>1.06</InteresAnual>
+  <InteresGanado>1007.0588888888875</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>428532.05888888886</SaldoFinal>
+</SalidaDTO>

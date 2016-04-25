@@ -14,6 +14,29 @@ c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDe
 c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesLibrary\obj\Debug\CalculadorDeInversionesLibrary.dll
 c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesLibrary\obj\Debug\CalculadorDeInversionesLibrary.pdb
 C:\Users\Jose Aguilar Quesada\Documents\Visual Studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesLibrary\obj\Debug\CalculadorDeInversionesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\CalculadorDeInversionesLibrary.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\CalculadorDeInversionesLibrary.pdb
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\mscorlib.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\ServiceStack.Client.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\ServiceStack.Common.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\ServiceStack.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\ServiceStack.Text.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\ServiceStack.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\ServiceStack.Client.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\ServiceStack.Common.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\ServiceStack.Text.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\es\mscorlib.resources.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\normidna.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\normnfc.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\normnfd.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\normnfkc.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\normnfkd.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\obj\Debug\CalculadorDeInversionesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\obj\Debug\CalculadorDeInversionesLibrary.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesLibrary\obj\Debug\CalculadorDeInversionesLibrary.pdb
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\CalculadorDeInversionesLibrary.dll
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\CalculadorDeInversionesLibrary.pdb
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesLibrary\bin\Debug\Newtonsoft.Json.dll

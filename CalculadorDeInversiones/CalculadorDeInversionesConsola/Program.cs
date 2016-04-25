@@ -29,7 +29,7 @@ namespace CalculadorDeInversionesConsola
                 try
                 {
                     CalculadorDeInversiones control = new CalculadorDeInversiones();
-                    Salida consulta1 = control.calcularInversion(nombre, tipo, monto, plazo, moneda);
+                    SalidaDTO consulta1 = control.calcularInversion(nombre, tipo, monto, plazo, moneda);
                     Console.Write("\n----------Datos de la Inversión----------\n");
                     Console.Write("Nombre: ");
                     Console.WriteLine(consulta1.Nombre);
@@ -95,91 +95,15 @@ namespace CalculadorDeInversionesConsola
             Console.Write(">>");
             nombre = Console.ReadLine();
             Console.Write("Elija un tipo de inversión\n1)Cuenta Corriente\n2)Certificado de Depósito Plazo\n3)Inversión a la Vista Tasa Pactada\n>>");
-            tipo = leerTipo();
-            moneda = leerMoneda(tipo);
+            tipo = ValidadorDatos.leerTipo();
+            moneda = ValidadorDatos.leerMoneda(tipo);
             Console.WriteLine("\nIngrese el monto a invertir");
             Console.Write(">>");
-            monto = leerMonto();
+            monto = ValidadorDatos.leerMonto();
             Console.WriteLine("Ingrese el plazo de la inversión en días");
             Console.Write(">>");
-            plazo = leerPlazo();
+            plazo = ValidadorDatos.leerPlazo();
             return true;
-        }
-        static string leerTipo()
-        {
-            string caracter = Console.ReadLine();
-            if (caracter.Equals("1"))
-            {
-                return "Cuenta Corriente";
-            }
-            else if (caracter.Equals("2"))
-            {
-                return "Depósito Plazo";
-            }
-            else if (caracter.Equals("3"))
-            {
-                return "Tasa Pactada";
-            }
-            else
-            {
-                Console.Write("La opción no es válida. Vuelva a ingresar un valor\n>>");
-                return leerTipo();
-            }
-        }
-        static string leerMoneda(string tipop)
-        {
-            if (tipop.Equals("Tasa Pactada"))
-            {
-                Console.Write("\nElija la moneda\n1)Colones\n2)Dólares\n>>");
-                string caracter = Console.ReadLine();
-                if (caracter.Equals("1"))
-                {
-                    return "colones";
-                }
-                else if (caracter.Equals("2"))
-                {
-                    return "dólares";
-                }
-                else
-                {
-                    Console.Write("La opción no es válida. Vuelva a ingresar un valor\n>>");
-                    return leerMoneda(tipop);
-                }
-            }
-            else
-            {
-                Console.Write("El tipo de inversión elegida solo se permite colones. Su inversión será en colones");
-                return "colones";
-            }
-
-        }
-        static double leerMonto()
-        {
-            string numeroS = Console.ReadLine();
-            double numero;
-            if (double.TryParse(numeroS, out numero))
-            {
-                return numero;
-            }
-            else
-            {
-                Console.Write("La opción no es válida. Ingrese un valor numérico\n>>");
-                return leerMonto();
-            }
-        }
-        static int leerPlazo()
-        {
-            string numeroS = Console.ReadLine();
-            int numero;
-            if (int.TryParse(numeroS, out numero))
-            {
-                return numero;
-            }
-            else
-            {
-                Console.Write("La opción no es válida. Ingrese un valor numérico\n>>");
-                return leerPlazo();
-            }
         }
 
     }

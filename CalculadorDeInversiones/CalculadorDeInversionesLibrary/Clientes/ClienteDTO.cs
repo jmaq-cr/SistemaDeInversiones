@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CalculadorDeInversionesLibrary
 {
-    public class Cliente : Persona
+    public class ClienteDTO : Persona
     {
         private string nombre;
 
-        public Cliente(string nombrep)
+        public ClienteDTO(string nombrep)
         {
             Nombre = nombrep;
         }

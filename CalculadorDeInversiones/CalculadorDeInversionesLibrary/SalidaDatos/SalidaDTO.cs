@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalculadorDeInversionesLibrary
 {
-    public class Salida
+    public class SalidaDTO	
     {
         DateTime fecha;
         string nombre;
@@ -150,7 +150,7 @@ namespace CalculadorDeInversionesLibrary
 
         
 
-        public Salida()
+        public SalidaDTO()
         {
         }
     }

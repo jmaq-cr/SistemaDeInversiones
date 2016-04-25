@@ -67,6 +67,10 @@ C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInvers
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\bin\Debug\CalculadorDeInversiones.exe.config
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversiones.exe
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversiones.pdb
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversionesGUI.csprojResolveAssemblyReference.cache
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversionesGUI.VentanaPrincipal.resources
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversiones.Properties.Resources.resources
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversionesGUI.csproj.GenerateResource.Cache
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\bin\Debug\CalculadorDeInversiones.exe
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\bin\Debug\CalculadorDeInversiones.pdb
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\bin\Debug\CalculadorDeInversionesLibrary.dll
@@ -82,7 +86,3 @@ C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInvers
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\bin\Debug\ServiceStack.Client.xml
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\bin\Debug\ServiceStack.Common.xml
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\bin\Debug\ServiceStack.Text.xml
-C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversionesGUI.csprojResolveAssemblyReference.cache
-C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversionesGUI.VentanaPrincipal.resources
-C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversiones.Properties.Resources.resources
-C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversiones\obj\Debug\CalculadorDeInversionesGUI.csproj.GenerateResource.Cache

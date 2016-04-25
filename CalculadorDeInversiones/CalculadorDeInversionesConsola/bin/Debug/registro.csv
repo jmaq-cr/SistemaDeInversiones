@@ -1,6 +1,31 @@
-﻿Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
-24/4/2016 11:12:11 p. m.;0;2;1722,22222222222;colones;1000000;Disney Landia Rodríguez Juárez;31;1001722,22222222;Cuenta Corriente
-24/4/2016 11:14:04 p. m.;0;2,5;3864,58333333333;colones;2650000;Email Suárez Barboza;21;2653864,58333333;Cuenta Corriente
-24/4/2016 11:15:05 p. m.;0;4,94;9221,33333333334;colones;1200000;Yam Clock Alejandro Pizarro Rojas;56;1209221,33333333;Tasa Pactada
-24/4/2016 11:16:45 p. m.;0;1,44;51,0000000000002;dólares;8500;Usnavy Marina Pérez González;150;8551;Tasa Pactada
-24/4/2016 11:17:57 p. m.;1440;5,4;18000;colones;2500000;Rocky Rambo Quispe Mamani;48;2516560;Depósito Plazo
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+24/4/2016 2:24:01 p. m.;0;2,25;14062,5;colones;1500000;Jose Aguilar;150;1514062,5;Cuenta Corriente
+24/4/2016 2:24:45 p. m.;0;2,26;169,499999999999;dólares;9000;Eduardo Vargas;300;9169,5;Tasa Pactada
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+24/4/2016 2:26:00 p. m.;10171,1111111111;9,95;127138,888888888;colones;2300000;Shirley Quesada;200;2416967,77777778;Depósito Plazo
+24/4/2016 2:26:34 p. m.;0;2,5;77500;colones;9300000;Gladys Sandi;120;9377500;Cuenta Corriente
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+24/4/2016 7:53:13 p. m.;0;1,44;900;dólares;250000;Jose;90;250900;Tasa Pactada
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+24/4/2016 8:26:47 p. m.;1575;6,3;19687,5;colones;1250000;Roberto;90;1268112,5;Depósito Plazo
+24/4/2016 8:27:05 p. m.;0;1,06;1177,77777777778;dólares;500000;Ana;80;501177,777777778;Tasa Pactada
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+24/4/2016 9:14:35 p. m.;0;2;1722,22222222222;colones;1000000;Jose;31;1001722,22222222;Cuenta Corriente
+24/4/2016 9:15:04 p. m.;0;2;1388,88888888889;colones;1000000;Jose;25;1001388,88888889;Cuenta Corriente
+24/4/2016 9:15:23 p. m.;0;2;1111,11111111111;colones;1000000;1000000;20;1001111,11111111;Cuenta Corriente
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+25/4/2016 12:49:47 p. m.;0;1;27,7777777777778;colones;50000;Kevin;20;50027,7777777778;Cuenta Corriente
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+25/4/2016 1:20:55 p. m.;0;2,25;21875;colones;1750000;Jota Eme;200;1771875;Cuenta Corriente
+25/4/2016 1:21:37 p. m.;430160,589653333;9,3;5377007,37066666;colones;65044444;Juan;320;69991290,7810133;Depósito Plazo
+25/4/2016 1:22:06 p. m.;0;5,23;90146,0778125001;colones;8273445;Pedro;75;8363591,0778125;Tasa Pactada
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+25/4/2016 4:37:33 p. m.;0;1;16,6666666666667;colones;40000;Jasson Moya Álvarez;15;40016,6666666667;Cuenta Corriente
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+25/4/2016 4:46:24 p. m.;0;2,25;14062,5;colones;1500000;Jose;150;1514062,5;Cuenta Corriente
+25/4/2016 4:46:54 p. m.;10920;6,3;136500;colones;6500000;Ana;120;6625580;Depósito Plazo
+25/4/2016 4:47:21 p. m.;0;5,81;15735,4166666666;colones;975000;Pedro;100;990735,416666667;Tasa Pactada
+25/4/2016 4:47:53 p. m.;0;1,06;1007,05888888889;dólares;427525;Chum Lee;80;428532,058888889;Tasa Pactada

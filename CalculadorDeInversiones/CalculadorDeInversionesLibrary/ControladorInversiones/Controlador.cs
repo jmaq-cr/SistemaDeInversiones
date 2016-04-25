@@ -8,6 +8,6 @@ namespace CalculadorDeInversionesLibrary
 {
     interface Controlador
     {
-        Salida calcularInversion(string nombre, string tipo, double monto, int plazo, string moneda);
+        SalidaDTO calcularInversion(string nombre, string tipo, double monto, int plazo, string moneda);
     }
 }

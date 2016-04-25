@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace CalculadorDeInversionesLibrary
 {
-    public class DatosInversion : Datos
+    public class DatosInversionDTO : Datos
     {
         
         private double interesGanado;
         private double impuestoRenta;
         private double saldoFinal;
 
-        public DatosInversion(string tipop, double montop, int plazop, string monedap) : base(tipop, montop, plazop, monedap)
+        public DatosInversionDTO(string tipop, double montop, int plazop, string monedap) : base(tipop, montop, plazop, monedap)
         {
         }
 

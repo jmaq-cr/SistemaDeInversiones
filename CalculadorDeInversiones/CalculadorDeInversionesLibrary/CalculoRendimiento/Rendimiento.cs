@@ -8,7 +8,7 @@ namespace CalculadorDeInversionesLibrary
 {
     public abstract class Rendimiento
     {
-        public static void calcularRendimiento(DatosInversion datosp)
+        public static void calcularRendimiento(DatosInversionDTO datosp)
         {
             InteresesPredefinidos.asignarIntereses(datosp);
             if(datosp.Tipo.Equals("Depósito Plazo"))

@@ -12,7 +12,7 @@ namespace CalculadorDeInversionesLibrary
 {
     public static class RegistroHistorico
     {
-        static List<Salida> entradas = new List<Salida>();
+        static List<SalidaDTO> entradas = new List<SalidaDTO>();
         static string textoXml = "";
 
         public static void generarArchivos()
@@ -33,9 +33,9 @@ namespace CalculadorDeInversionesLibrary
             }
 
         }
-        public static Salida agregarEntrada(DatosInversion datos, Cliente cliente)
+        public static SalidaDTO agregarEntrada(DatosInversionDTO datos, ClienteDTO cliente)
         {
-            Salida nuevaEntrada = new Salida();
+            SalidaDTO nuevaEntrada = new SalidaDTO();
             nuevaEntrada.Fecha = DateTime.Now;
             nuevaEntrada.Nombre = cliente.Nombre;
             nuevaEntrada.TipoInversion = datos.Tipo;

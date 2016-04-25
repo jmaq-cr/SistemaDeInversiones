@@ -8,7 +8,7 @@ namespace CalculadorDeInversionesLibrary
 {
     interface ITipoAhorroInversion
     {
-        bool verificarDatos(DatosInversion datosp);
-        void calcularRendimiento(DatosInversion datosp);
+        bool verificarDatos(DatosInversionDTO datosp);
+        void calcularRendimiento(DatosInversionDTO datosp);
     }
 }

@@ -8,12 +8,12 @@ namespace CalculadorDeInversionesLibrary
 {
     class TasaPactada : ITipoAhorroInversion
     {
-        public void calcularRendimiento(DatosInversion datosp)
+        public void calcularRendimiento(DatosInversionDTO datosp)
         {
             Rendimiento.calcularRendimiento(datosp);
         }
 
-        public bool verificarDatos(DatosInversion datosp)
+        public bool verificarDatos(DatosInversionDTO datosp)
         {
             if (datosp.Plazo >= 15)
             {

@@ -10,11 +10,11 @@ namespace CalculadorDeInversionesLibrary
 {
     public static class InteresesPredefinidos
     {
-        private static List<DatosCuentaCorriente> datosCuentaCorriente = new List<DatosCuentaCorriente>();
-        private static List<DatosDepositoPlazo> datosDepositoPlazo = new List<DatosDepositoPlazo>();
-        private static List<DatosTasaPactada> datosTasaPactada = new List<DatosTasaPactada>();
+        private static List<DatosCuentaCorrienteDTO> datosCuentaCorriente = new List<DatosCuentaCorrienteDTO>();
+        private static List<DatosDepositoPlazoDTO> datosDepositoPlazo = new List<DatosDepositoPlazoDTO>();
+        private static List<DatosTasaPactadaDTO> datosTasaPactada = new List<DatosTasaPactadaDTO>();
 
-        internal static List<DatosCuentaCorriente> DatosCuentaCorriente
+        internal static List<DatosCuentaCorrienteDTO> DatosCuentaCorriente
         {
             get
             {
@@ -27,7 +27,7 @@ namespace CalculadorDeInversionesLibrary
             }
         }
         
-        internal static List<DatosDepositoPlazo> DatosDepositoPlazo
+        internal static List<DatosDepositoPlazoDTO> DatosDepositoPlazo
         {
             get
             {
@@ -40,7 +40,7 @@ namespace CalculadorDeInversionesLibrary
             }
         }
 
-        internal static List<DatosTasaPactada> DatosTasaPactada
+        internal static List<DatosTasaPactadaDTO> DatosTasaPactada
         {
             get
             {
@@ -53,7 +53,7 @@ namespace CalculadorDeInversionesLibrary
             }
         }
 
-        public static void asignarIntereses(DatosInversion datosp)
+        public static void asignarIntereses(DatosInversionDTO datosp)
         {
             if(datosp.Tipo.Equals("Cuenta Corriente"))
             {

@@ -70,14 +70,14 @@ namespace CalculadorDeInversionesGUI
         public void calcularResultado()
         {
             CalculadorDeInversiones control = new CalculadorDeInversiones();
-            Salida consulta = control.calcularInversion(nombre, tipo, Double.Parse(monto), int.Parse(plazo), moneda);
+            SalidaDTO consulta = control.calcularInversion(nombre, tipo, Double.Parse(monto), int.Parse(plazo), moneda);
             if (consulta != null)
                 formatearResultado(consulta);
             else
                 resultado = "***Los datos suministrados no cumplen con los requisitos mínimos. Su calculo no se ha realizado***";
         }
 
-        public void formatearResultado(Salida pConsulta)
+        public void formatearResultado(SalidaDTO pConsulta)
         {
             resultado = "";
             resultado += "\n----------Datos de la Inversión----------\n" +

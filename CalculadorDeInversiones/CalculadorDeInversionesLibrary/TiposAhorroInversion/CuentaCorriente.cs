@@ -8,12 +8,12 @@ namespace CalculadorDeInversionesLibrary
 {
     class CuentaCorriente : ITipoAhorroInversion
     {
-        public void calcularRendimiento(DatosInversion datosp)
+        public void calcularRendimiento(DatosInversionDTO datosp)
         {
             Rendimiento.calcularRendimiento(datosp);
         }
 
-        public bool verificarDatos(DatosInversion datosp)
+        public bool verificarDatos(DatosInversionDTO datosp)
         {
             if(datosp.Monto >= 25000 && datosp.Moneda.Equals("colones"))
             {

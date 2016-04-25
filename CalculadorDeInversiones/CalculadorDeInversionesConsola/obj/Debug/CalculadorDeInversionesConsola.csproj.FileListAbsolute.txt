@@ -36,6 +36,32 @@ C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInvers
 C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.xml
 C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.xml
 C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.csprojResolveAssemblyReference.cache
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe.config
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.pdb
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\mscorlib.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.pdb
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.xml
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\es\mscorlib.resources.dll
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\normidna.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\normnfc.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\normnfd.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\normnfkc.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\normnfkd.nlp
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.csprojResolveAssemblyReference.cache
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.exe
+C:\Users\kevinah95\Desktop\Diseño\CalculadorDeInversiones\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.pdb
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe.config
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.exe
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.pdb
@@ -55,3 +81,22 @@ C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInvers
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.xml
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.xml
 C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.csprojResolveAssemblyReference.cache
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe.config
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.exe
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.pdb
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.pdb
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.dll
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.dll
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.dll
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.dll
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.dll
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.pdb
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.xml
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.xml
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.xml
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.xml
+C:\Users\jasc9\Dropbox\Primer Proyecto Programado - Sistemas de Inversiones\Entrega\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.csprojResolveAssemblyReference.cache

@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace CalculadorDeInversionesLibrary
 {
-    class DatosTasaPactada
+    class DatosDepositoPlazoDTO
     {
         int plazoMin;
         int plazoMax;
-        double interesColones;
-        double interesDolares;
+        double interes;
 
         public int PlazoMin
         {
@@ -39,38 +38,24 @@ namespace CalculadorDeInversionesLibrary
             }
         }
 
-        public double InteresColones
+        public double Interes
         {
             get
             {
-                return interesColones;
+                return interes;
             }
 
             set
             {
-                interesColones = value;
+                interes = value;
             }
         }
 
-        public double InteresDolares
-        {
-            get
-            {
-                return interesDolares;
-            }
-
-            set
-            {
-                interesDolares = value;
-            }
-        }
-
-        public DatosTasaPactada(int plazoMinp, int plazoMaxp, double interesesColonesp, double interesesDolaresp)
+        public DatosDepositoPlazoDTO(int plazoMinp, int plazoMaxp, double interesesp)
         {
             PlazoMin = plazoMinp;
             PlazoMax = plazoMaxp;
-            InteresColones = interesesColonesp;
-            InteresDolares = interesesDolaresp;
+            Interes = interesesp;
         }
     }
 }

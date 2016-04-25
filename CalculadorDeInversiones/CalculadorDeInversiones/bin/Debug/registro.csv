@@ -1,7 +1,13 @@
-﻿Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
-24/4/2016 10:57:34 p. m.;0;2;1722,22222222222;colones;1000000;Disney Landia Rodríguez Juárez ;31;1001722,22222222;Cuenta Corriente
-24/4/2016 10:58:38 p. m.;0;2,5;3864,58333333333;colones;2650000;Email Suárez Barboza;21;2653864,58333333;Cuenta Corriente
-24/4/2016 11:00:08 p. m.;0;4,94;9221,33333333334;colones;1200000;Yam Clock Alejandro Pizarro Rojas;56;1209221,33333333;Tasa Pactada
-24/4/2016 11:01:10 p. m.;0;1,44;51,0000000000002;dólares;8500;Usnavy Marina Pérez González;150;8551;Tasa Pactada
-24/4/2016 11:01:20 p. m.;0;1,44;51,0000000000002;dólares;8500;Usnavy Marina Pérez González;150;8551;Tasa Pactada
-24/4/2016 11:02:18 p. m.;1440;5,4;18000;colones;2500000;Rocky Rambo Quispe Mamani;48;2516560;Depósito Plazo
+
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+24/4/2016 10:17:21 p. m.;4433,33333333333;5,7;55416,6666666666;colones;5000000;Kevin;70;5050983,33333333;Depósito Plazo
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+24/4/2016 10:34:40 p. m.;0;1;13,8888888888889;colones;50000;Jasson Moya Álvarez;10;50013,8888888889;Cuenta Corriente
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+24/4/2016 10:34:40 p. m.;0;1;13,8888888888889;colones;50000;Jasson Moya Álvarez;10;50013,8888888889;Cuenta Corriente
+24/4/2016 10:35:34 p. m.;4800;5,4;60000;colones;10000000;Jasson Moya Álvarez;40;10055200;Depósito Plazo
+24/4/2016 10:35:56 p. m.;96;5,4;1200;colones;200000;Jasson Moya Álvarez;40;201104;Depósito Plazo
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+Fecha;ImpuestoRenta;InteresAnual;InteresGanado;Moneda;Monto;Nombre;Plazo;SaldoFinal;TipoInversion
+25/4/2016 1:18:01 p. m.;0;0,91;10,1111111111111;dólares;8000;Jota;50;8010,11111111111;Tasa Pactada
+25/4/2016 1:18:18 p. m.;4725;9,45;59062,5;colones;1500000;Jota;150;1554337,5;Depósito Plazo
