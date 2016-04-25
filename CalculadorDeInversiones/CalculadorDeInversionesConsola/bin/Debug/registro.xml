@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T23:12:11.7293359-06:00</Fecha>
+  <Nombre>Disney Landia Rodríguez Juárez</Nombre>
+  <TipoInversion>Cuenta Corriente</TipoInversion>
+  <Monto>1000000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>31</Plazo>
+  <InteresAnual>2</InteresAnual>
+  <InteresGanado>1722.2222222222233</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>1001722.2222222223</SaldoFinal>
+</Salida>
+<?xml version="1.0" encoding="utf-16"?>
+<Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T23:14:04.3624758-06:00</Fecha>
+  <Nombre>Email Suárez Barboza</Nombre>
+  <TipoInversion>Cuenta Corriente</TipoInversion>
+  <Monto>2650000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>21</Plazo>
+  <InteresAnual>2.5</InteresAnual>
+  <InteresGanado>3864.5833333333339</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>2653864.5833333335</SaldoFinal>
+</Salida>
+<?xml version="1.0" encoding="utf-16"?>
+<Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T23:15:05.5720783-06:00</Fecha>
+  <Nombre>Yam Clock Alejandro Pizarro Rojas</Nombre>
+  <TipoInversion>Tasa Pactada</TipoInversion>
+  <Monto>1200000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>56</Plazo>
+  <InteresAnual>4.94</InteresAnual>
+  <InteresGanado>9221.3333333333358</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>1209221.3333333333</SaldoFinal>
+</Salida>
+<?xml version="1.0" encoding="utf-16"?>
+<Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T23:16:45.294625-06:00</Fecha>
+  <Nombre>Usnavy Marina Pérez González</Nombre>
+  <TipoInversion>Tasa Pactada</TipoInversion>
+  <Monto>8500</Monto>
+  <Moneda>dólares</Moneda>
+  <Plazo>150</Plazo>
+  <InteresAnual>1.44</InteresAnual>
+  <InteresGanado>51.000000000000178</InteresGanado>
+  <ImpuestoRenta>0</ImpuestoRenta>
+  <SaldoFinal>8551</SaldoFinal>
+</Salida>
+<?xml version="1.0" encoding="utf-16"?>
+<Salida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fecha>2016-04-24T23:17:57.7988969-06:00</Fecha>
+  <Nombre>Rocky Rambo Quispe Mamani</Nombre>
+  <TipoInversion>Depósito Plazo</TipoInversion>
+  <Monto>2500000</Monto>
+  <Moneda>colones</Moneda>
+  <Plazo>48</Plazo>
+  <InteresAnual>5.4</InteresAnual>
+  <InteresGanado>18000.000000000004</InteresGanado>
+  <ImpuestoRenta>1440.0000000000002</ImpuestoRenta>
+  <SaldoFinal>2516560</SaldoFinal>
+</Salida>

@@ -1,0 +1,21 @@
+[{
+	"montoMin": 25000,
+	"montoMax": 50000,
+	"interes": 1
+}, {
+	"montoMin": 500001,
+	"montoMax": 1000000,
+	"interes": 2
+}, {
+	"montoMin": 1000001,
+	"montoMax": 2500000,
+	"interes": 2.25
+}, {
+	"montoMin": 2500001,
+	"montoMax": 10000000,
+	"interes": 2.50
+}, {
+	"montoMin": 10000001,
+	"montoMax": 99999999999,
+	"interes": 2
+}]

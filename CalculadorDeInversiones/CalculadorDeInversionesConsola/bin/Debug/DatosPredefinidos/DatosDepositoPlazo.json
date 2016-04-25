@@ -1,0 +1,53 @@
+[{
+    "plazoMin": 30,
+    "plazoMax": 59,
+    "interes": 5.40
+}, {
+    "plazoMin": 60,
+    "plazoMax": 89,
+    "interes": 5.70
+}, {
+    "plazoMin": 90,
+    "plazoMax": 149,
+    "interes": 6.30
+}, {
+    "plazoMin": 150,
+    "plazoMax": 179,
+    "interes": 9.45
+}, {
+    "plazoMin": 180,
+    "plazoMax": 209,
+    "interes": 9.95
+}, {
+    "plazoMin": 210,
+    "plazoMax": 239,
+    "interes": 10.00
+}, {
+    "plazoMin": 240,
+    "plazoMax": 260,
+    "interes": 9.30
+}, {
+    "plazoMin": 270,
+    "plazoMax": 359,
+    "interes": 9.30
+}, {
+    "plazoMin": 360,
+    "plazoMax": 719,
+    "interes": 9.30
+}, {
+    "plazoMin": 720,
+    "plazoMax": 1079,
+    "interes": 9.30
+}, {
+    "plazoMin": 1080,
+    "plazoMax": 1439,
+    "interes": 9.30
+}, {
+    "plazoMin": 1440,
+    "plazoMax": 1799,
+    "interes": 9.30
+}, {
+    "plazoMin": 1800,
+    "plazoMax": 999999,
+    "interes": 9.30
+}]

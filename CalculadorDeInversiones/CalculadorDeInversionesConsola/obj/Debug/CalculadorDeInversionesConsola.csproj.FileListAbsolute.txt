@@ -1,0 +1,57 @@
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe.config
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.pdb
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.dll
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.dll
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.dll
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.dll
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Interfaces.dll
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.dll
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.xml
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.xml
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.xml
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.xml
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.xml
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.csprojResolveAssemblyReference.cache
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.exe
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.pdb
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.dll
+c:\users\jose aguilar quesada\documents\visual studio 2015\Projects\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.pdb
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe.config
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.exe
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.pdb
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.pdb
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.dll
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.dll
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.dll
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.dll
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.dll
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.pdb
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.xml
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.xml
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.xml
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.xml
+C:\Users\jasc9\Desktop\Nueva versión\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.csprojResolveAssemblyReference.cache
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe.config
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.exe
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.pdb
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.exe
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesConsola.pdb
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.dll
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.dll
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.dll
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.dll
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.dll
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\CalculadorDeInversionesLibrary.pdb
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.xml
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Client.xml
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Common.xml
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\bin\Debug\ServiceStack.Text.xml
+C:\Users\Jose Aguilar Quesada\Desktop\CalculadorDeInversiones\CalculadorDeInversionesConsola\obj\Debug\CalculadorDeInversionesConsola.csprojResolveAssemblyReference.cache
